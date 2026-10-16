@@ -1,0 +1,31 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p12
+google-services.json
+local.properties
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+logs/
+
+# Node / Expo / Android
+node_modules/
+.expo/
+dist/
+build/
+.gradle/
+*.log
+
+# Editors / OS
+.vscode/
+.idea/
+.claude/
+.DS_Store
+Thumbs.db

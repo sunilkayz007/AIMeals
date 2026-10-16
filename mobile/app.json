@@ -1,0 +1,63 @@
+{
+  "expo": {
+    "name": "AIMeals",
+    "slug": "aimeals",
+    "scheme": "aimeals",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "icon": "./assets/images/icon.png",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.aimeals.app"
+    },
+    "android": {
+      "package": "com.aimeals.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#EFF4EC"
+      }
+    },
+    "plugins": [
+      "expo-router",
+      "expo-secure-store",
+      "expo-font",
+      "expo-web-browser",
+      "expo-localization",
+      [
+        "react-native-google-mobile-ads",
+        {
+          "androidAppId": "ca-app-pub-2272440856639213~8453219948",
+          "iosAppId": "ca-app-pub-3940256099942544~1458002511"
+        }
+      ],
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "usesCleartextTraffic": true
+          }
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "permissions": ["CAMERA", "CAMERA_ROLL", "READ_EXTERNAL_STORAGE"]
+        }
+      ],
+      [
+        "expo-document-picker",
+        {
+          "permissions": ["READ_EXTERNAL_STORAGE"]
+        }
+      ]
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "1e1b577b-e249-4b36-8c85-c71885b9ba8d"
+      }
+    },
+    "owner": "aimealss-team"
+  }
+}
