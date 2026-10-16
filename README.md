@@ -4,6 +4,10 @@
 
 AIMeals helps you decide what to cook, what to eat and how it fits your goals. Scan your ingredients or snap a photo of a meal, get recipes built from what's already in your kitchen, generate meal plans, and chat with an AI nutrition coach.
 
+## Download
+
+**Android:** [Get AIMeals on Google Play](https://play.google.com/store/apps/details?id=com.aimeals.app)
+
 ## Features
 
 - **Pantry tracking** — keep track of what you have at home
