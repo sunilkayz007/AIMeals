@@ -6,7 +6,8 @@ AIMeals helps you decide what to cook, what to eat and how it fits your goals. S
 
 ## Download
 
-**Android:** [Get AIMeals on Google Play](https://play.google.com/store/apps/details?id=com.aimeals.app)
+📱 **Download AIMeals on Google Play:**
+https://play.google.com/store/apps/details?id=com.aimeals.app
 
 ## Features
 
