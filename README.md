@@ -67,6 +67,10 @@ npx expo start
 
 This repository does not contain any API keys, passwords, signing keystores or Firebase/Play configuration files. Those are supplied locally by each developer. Keep them out of version control.
 
+## Contributing and security
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) to get started. To report a vulnerability, follow [SECURITY.md](SECURITY.md).
+
 ## Status
 
 Early-stage project under active development. Feedback and contributions via issues are welcome.
