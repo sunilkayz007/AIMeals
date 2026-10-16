@@ -1,5 +1,7 @@
 # AIMeals
 
+![Platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-React%20Native-000020?logo=expo&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-Python-009688?logo=fastapi&logoColor=white) ![License](https://img.shields.io/badge/license-All%20rights%20reserved-lightgrey)
+
 📱 **Download AIMeals on Google Play:**
 https://play.google.com/store/apps/details?id=com.aimeals.app
 
@@ -21,6 +23,16 @@ AIMeals helps you decide what to cook, what to eat and how it fits your goals. S
 - **Allergy awareness** — allergen insights and facts
 - **AI coach** — streaming chat for nutrition and cooking questions
 - **Health & goals** — body details, goals, achievements and health reports
+
+## Why AIMeals
+
+- 🥦 **Cook with what you already have.** Scan ingredients or add pantry items, then get recipes built from them.
+- 📸 **Snap a meal, get the nutrition.** Estimate calories and macros from a food photo.
+- 🗓️ **AI meal plans** that fit your goals, not generic templates.
+- 🧑‍⚕️ **Coach chat** for nutrition and cooking questions, with streaming answers.
+- ⚠️ **Allergy-aware** insights, so you know what to watch for.
+
+If AIMeals helps you eat better, a ⭐ on this repo helps other people find it.
 
 ## Screenshots
 
