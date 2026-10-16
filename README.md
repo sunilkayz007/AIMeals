@@ -15,12 +15,23 @@ AIMeals helps you decide what to cook, what to eat and how it fits your goals. S
 - **AI coach** — streaming chat for nutrition and cooking questions
 - **Health & goals** — body details, goals, achievements and health reports
 
+## Screenshots
+
+| | | |
+| --- | --- | --- |
+| ![Dashboard](docs/screenshots/phone/phone-01.png) | ![Food scan](docs/screenshots/phone/phone-02.png) | ![Recipe discovery](docs/screenshots/phone/phone-03.png) |
+| ![Coach chat](docs/screenshots/phone/phone-04.png) | ![Upgrade plans](docs/screenshots/phone/phone-05.png) | ![Health insights](docs/screenshots/phone/phone-06.png) |
+| ![Health breakdown](docs/screenshots/phone/phone-07.png) | ![Meal planner](docs/screenshots/phone/phone-08.png) | |
+
+More tablet layouts are in [`docs/screenshots/tablet/`](docs/screenshots/tablet/).
+
 ## Repository layout
 
 | Path | What it is |
 | --- | --- |
 | `mobile/` | Expo / React Native app (TypeScript, expo-router) |
 | `backend/` | FastAPI service: auth, pantry, recipes, meal plans, logs, AI endpoints |
+| `docs/screenshots/` | Store and marketing images (phone and tablet) |
 
 ## Running locally
 
