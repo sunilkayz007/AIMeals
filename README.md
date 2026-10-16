@@ -77,4 +77,4 @@ Early-stage project under active development. Feedback and contributions via iss
 
 ## License
 
-All rights reserved. Licensing terms to be added by the author.
+All rights reserved. No open-source license is granted; the source is published for viewing, and reuse requires the author's permission.
